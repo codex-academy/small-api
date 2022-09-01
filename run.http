@@ -1,0 +1,6 @@
+POST http://127.0.0.1:6002/api/one
+content-type: application/json
+
+{
+    "name" : "Joe"
+}
